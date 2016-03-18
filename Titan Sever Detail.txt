@@ -1,10 +1,1 @@
-54.252.126.16  
-FTP details
-- Common for all sites:
-  Protocol: SFTP
-  Host-name: xfer.titanweb.com.au
-  Port: 48122
-  Password: eBEHvic0
-  Username: {ชื่อโดเมน ไม่เอาจุด}
-officerelocationservicescomau
- 
+﻿54.252.126.16  
